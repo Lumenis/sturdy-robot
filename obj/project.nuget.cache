@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RF5gA45jW5YXruOBa26D0l1xymYfzKQhLmCK0N6m1HSVEnADsjDb4LOfx1KWoseBh3ANFGuIVyyulzIPiKP7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Création jeu\\Monogame\\MonoGame-develop\\FSharpMGTest\\FSharpMGTest.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thomas\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Thomas\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
